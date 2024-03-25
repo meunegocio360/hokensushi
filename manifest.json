@@ -1,7 +1,5 @@
 {
- "background_color": "#FFFFFF",
  "display": "fullscreen",
- "name": "Hoken Sushi - Tour Virtual °",
  "theme_color": "#FFFFFF",
  "icons": [
   {
@@ -40,6 +38,8 @@
    "sizes": "16x16"
   }
  ],
+ "background_color": "#FFFFFF",
  "start_url": "index.htm",
+ "name": "Hoken Sushi - Tour Virtual °",
  "description": "Av. Dona Manoela Lacerda de Vergueiro, 78 - Anhangabaú, Jundiaí - SP"
 }
